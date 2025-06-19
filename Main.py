@@ -44,19 +44,19 @@ while option != 5:
         else:
             if option == 1:
                 os.system("cls")
-                agregar_contacto(lista)
+                #agregar_contacto(lista)
                 os.system("pause")
             elif option == 2:
                 os.system("cls")
-                mostrar_contactos(lista)
+                #mostrar_contactos(lista)
                 os.system("pause")
             elif option == 3:
                 os.system("cls")
-                buscar_contacto(lista)
+                #buscar_contacto(lista)
                 os.system("pause")
             elif option == 4:
                 os.system("cls")
-                eliminar_contacto(lista)
+                #eliminar_contacto(lista)
                 os.system("pause")
             elif option == 5:
                 os.system("cls")
